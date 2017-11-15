@@ -1,0 +1,12 @@
+To detect which service provider owns a phone numbers
+
+Method used:
+
+Random generation
+Looping
+dictionary
+keys, values
+list compression
+dictionary iteration item method
+algorithms
+printing
